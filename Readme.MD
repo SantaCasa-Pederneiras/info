@@ -13,7 +13,7 @@ Lista de repositórios:
 
 #Como ajudar?
 
-Para ajuedar é simples, basta seguir o processo abaixo:
+Para ajudar é simples, basta seguir o processo abaixo:
 + Encontre uma [**issue**](https://github.com/SantaCasa-Pederneiras/material-grafico/issues) para colaborar;
 + Ter uma conta no gitHub ou criar uma gratuitamente;
 + Fazer **Fork** do projeto;
